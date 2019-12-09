@@ -3,19 +3,19 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 30%;
+    margin: 50px;
 }
 
 .auth h1{
-    font-size: 50px;
+    font-size: 40px;
     font-family: sans-serif;
     text-align: center;
-    margin-bottom: 20%;
+    margin-bottom: 150px;
 }
 
 .auth button{
     height: 100px;
-    width: 80% !important;
+    width: 500px !important;
     background-color: #00009C;
     color:white;
     font-size: 35px;
@@ -29,8 +29,8 @@
 }
 
 .btn-primary a:hover{
-    background-color: white !important;
-    color:#00009C !important;
+    color:white !important;
+    text-decoration: none;
 }
 
 .menu{
@@ -63,8 +63,9 @@
 }
 
 Button a:hover{
-    background-color: white !important;
-    color:#00009C !important;
+    background-color: transparent !important;
+    color:white !important;
+    text-decoration: none;
 }
 
 a{
